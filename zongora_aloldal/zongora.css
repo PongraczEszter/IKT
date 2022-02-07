@@ -1,3 +1,8 @@
 body{
-    background-color: rgb(187, 183, 148);
+    background-color: antiquewhite
 }
+
+#fejlec{
+    background-color: #999966;  
+    color: white;
+  }
