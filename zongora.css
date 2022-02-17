@@ -1,30 +1,46 @@
-body{
-    background-color: antiquewhite;
-    padding-left: 300px;
-    padding-right: 300px;
+.container-fluid{
+  margin: auto;
+  padding: auto;
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color:#473a2c;
-  }
-  
-  li {
-    float: left;
-  }
-  
-  li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  
-  li a:hover {
-    background-color: #534433;
-    color: white;
-  }
+#fejlec{
+  text-shadow: 2px 2px 4px #000000;
+}
+
+body{
+  background-color: antiquewhite;
+  padding-left: 300px;
+  padding-right: 300px;
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+}
+
+ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color:#473a2c;
+}
+
+li {
+float: left;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover {
+background-color: #534433;
+color: white;
+}
+
+#kotta_fejlec{
+  width: 100%;
+  height: 620px;
+}
