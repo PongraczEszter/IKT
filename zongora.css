@@ -40,7 +40,7 @@ background-color: #534433;
 color: white;
 }
 
-.zongora_bev{
+.zongora{
   background-color: #d6d6c2;
   width: 100%;
   padding: 15px;
@@ -52,7 +52,7 @@ color: white;
   font-style: italic;
 }
 
-#zon_kialakul{
+#zon_sz{
   font-size: 18px;
   text-align: justify;
   text-justify: inter-word;
@@ -68,6 +68,16 @@ color: white;
   padding: 15px;
 }
 #zongora{
+  width: 100%;
+}
+
+.pzongora_kep{
+  background-color: #d6d6c2;
+  width: 100%;
+  padding: auto;
+}
+
+#pzongora{
   width: 100%;
 }
 
