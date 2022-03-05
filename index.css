@@ -40,7 +40,7 @@ background-color: #534433;
 color: white;
 }
 
-.zongora{
+.keret{
   background-color: #d6d6c2;
   width: 100%;
   padding: 15px;
@@ -52,56 +52,28 @@ color: white;
   font-style: italic;
 }
 
-#zon_sz{
+#szoveg{
   font-size: 18px;
   text-align: justify;
   text-justify: inter-word;
 }
 
-.arnyek{
+.arnyek2{
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.zongora_kep{
-  background-color: #d6d6c2;
-  width: 100%;
-  padding: 15px;
-}
-#zongora{
-  width: 100%;
-}
-
-.pzongora_kep{
+.koz_kep{
   background-color: #d6d6c2;
   width: 100%;
   padding: auto;
 }
 
-#pzongora{
+#kep1{
   width: 100%;
 }
 
-#kepleiras{
-  font-style: italic;
-}
-
-td, th {
-  border: 1px solid black;
-  text-align: left;
-  padding: 8px;
-}
-
-#felso{
-  background: #d6d6c2;
-  color: black;
-}
-
-#alsok{
-  background: #d6d6c2;
-  color: black;
-}
-
-table{
+#iras{
+  background-color: #d6d6c2;
   width: 100%;
 }
 
@@ -109,7 +81,7 @@ table{
   text-align: center;
 }
 
-.zongora2{
+.gomb{
   background-color: #d6d6c2;
   width: 100%;
   padding: 15px;
