@@ -15,7 +15,7 @@ body{
   font-family: 'Montserrat', sans-serif;
 }
 
-ul{
+#navigacio{
 list-style-type: none;
 margin: 0;
 padding: 0;
@@ -23,7 +23,7 @@ overflow: hidden;
 background-color:#473a2c;
 }
 
-li {
+#li{
 float: left;
 }
 
