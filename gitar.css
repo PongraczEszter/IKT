@@ -1,24 +1,93 @@
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color:#473a2c;
-  }
-  
-  li {
-    float: left;
-  }
-  
-  li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  
-  li a:hover {
-    background-color: #534433;
-    color: white;
-  }
+.container-fluid{
+  margin: auto;
+  padding: auto;
+}
+
+#fejlec{
+  text-shadow: 2px 2px 4px #000000;
+}
+
+body{
+  background-color: antiquewhite;
+  padding-left: 300px;
+  padding-right: 300px;
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+}
+
+ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color:#473a2c;
+}
+
+li {
+float: left;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover {
+background-color: #534433;
+color: white;
+}
+
+.gitar{
+  background-color: #d6d6c2;
+  width: 100%;
+  padding: 15px;
+}
+
+#fejlec_cim{
+  text-shadow: 2px 4px 18px #ffffff;
+  font-weight: bold;
+  font-style: italic;
+}
+
+#szovegek{
+  font-size: 18px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.arnyek{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.guitar2_kep{
+  background-color: #d6d6c2;
+  width: 100%;
+  padding: 15px;
+}
+#gitarok{
+  width: 100%;
+}
+
+.gitar_kep{
+  background-color: #d6d6c2;
+  width: 100%;
+  padding: auto;
+}
+
+#guitar{
+  width: 100%;
+}
+
+#copy{
+  text-align: center;
+}
+
+.gombok{
+  background-color: #d6d6c2;
+  width: 100%;
+  padding: 15px;
+  text-align: center;
+}
